@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/animetop.dir/main.cpp.o CMakeFiles/animetop.dir/renderingengine.cpp.o -o animetop  -lIrrlicht -lX11 -lm 

@@ -1,0 +1,3 @@
+/home/ivan4ik/Desktop/animetop/CMakeFiles/rebuild_cache.dir
+/home/ivan4ik/Desktop/animetop/CMakeFiles/edit_cache.dir
+/home/ivan4ik/Desktop/animetop/CMakeFiles/animetop.dir
